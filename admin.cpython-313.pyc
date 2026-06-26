@@ -1,0 +1,56 @@
+[
+  {
+    "id": "step_get_admission",
+    "workflow": "apply_from_india",
+    "order": 1,
+    "title": "Secure Admission",
+    "description": "Obtain an official admission letter from a recognized German university.",
+    "last_validated_at": "2024-03-01T12:00:00Z",
+    "source_url": "https://india.diplo.de/in-en/service/-/2552164"
+  },
+  {
+    "id": "step_open_blocked_account",
+    "workflow": "apply_from_india",
+    "order": 2,
+    "title": "Open a Blocked Account",
+    "description": "Transfer the required minimum amount to a blocked account (Sperrkonto) to prove financial resources.",
+    "last_validated_at": "2024-03-01T12:00:00Z",
+    "source_url": "https://www.auswaertiges-amt.de/en/sperrkonto/388600"
+  },
+  {
+    "id": "step_book_appointment",
+    "workflow": "apply_from_india",
+    "order": 3,
+    "title": "Book Visa Appointment",
+    "description": "Schedule a visa appointment via VFS Global or the German Embassy/Consulate.",
+    "last_validated_at": "2024-03-01T12:00:00Z",
+    "source_url": "https://india.diplo.de/in-en/service/-/2552164"
+  },
+  {
+    "id": "step_enroll_university",
+    "workflow": "apply_in_germany",
+    "order": 1,
+    "title": "Enroll at University",
+    "description": "Complete your university enrollment (Immatrikulation) to get your student status.",
+    "last_validated_at": "2024-03-01T12:00:00Z",
+    "source_url": "https://www.berlin.de/einwanderung/en/services/service.305244.en.php"
+  },
+  {
+    "id": "step_register_address",
+    "workflow": "apply_in_germany",
+    "order": 2,
+    "title": "City Registration (Anmeldung)",
+    "description": "Register your address at the local Bürgeramt.",
+    "last_validated_at": "2024-03-01T12:00:00Z",
+    "source_url": "https://service.berlin.de/dienstleistung/120686/"
+  },
+  {
+    "id": "step_apply_residence_permit",
+    "workflow": "apply_in_germany",
+    "order": 3,
+    "title": "Apply for Residence Permit",
+    "description": "Submit your application for a student residence permit at the Ausländerbehörde.",
+    "last_validated_at": "2024-03-01T12:00:00Z",
+    "source_url": "https://www.berlin.de/einwanderung/en/services/service.305244.en.php"
+  }
+]
