@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "workflow": "Anmeldung",
+    "visa": "Visum",
+    "overview": "Übersicht",
+    "ai_assistant": "KI-Assistent",
+    "admin": "Admin-Dashboard"
+  },
+  "common": {
+    "loading": "Wird geladen...",
+    "error": "Ein Fehler ist aufgetreten"
+  },
+  "ai": {
+    "title": "KI-Bürokratieassistent",
+    "upload_label": "Dokument hochladen (PDF/Bild)",
+    "text_label": "Oder Text hier einfügen",
+    "analyze_btn": "Brief analysieren",
+    "summary": "Zusammenfassung",
+    "actions": "Aktionspunkte",
+    "draft_reply": "Antwortentwurf"
+  },
+  "overview": {
+    "title": "Deine Reise nach Deutschland",
+    "subtitle": "Verfolge deinen Fortschritt durch alle bürokratischen Schritte."
+  },
+  "visa": {
+    "risk_radar": "Risikomanagement",
+    "evidence": "Quellen-Link",
+    "history": "Verlauf anzeigen"
+  }
+}

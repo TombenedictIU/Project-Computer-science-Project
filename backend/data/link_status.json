@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://www.germany.info/us-en/service/05-VisaEinreise/health-insurance/934270",
+    "last_checked_at": "2026-06-07T22:20:30.371316Z",
+    "status_code": 400,
+    "is_broken": true
+  },
+  {
+    "url": "https://india.diplo.de/in-en/service/-/2552164",
+    "last_checked_at": "2026-06-07T22:20:30.507388Z",
+    "status_code": 400,
+    "is_broken": true
+  },
+  {
+    "url": "https://www.auswaertiges-amt.de/en/visa-service/-/231728",
+    "last_checked_at": "2026-06-07T22:20:30.642084Z",
+    "status_code": 400,
+    "is_broken": true
+  },
+  {
+    "url": "https://www.auswaertiges-amt.de/en/sperrkonto/388600",
+    "last_checked_at": "2026-06-07T22:20:30.767187Z",
+    "status_code": 200,
+    "is_broken": false
+  },
+  {
+    "url": "https://www.berlin.de/einwanderung/en/services/service.305244.en.php",
+    "last_checked_at": "2026-06-07T22:20:31.052768Z",
+    "status_code": 404,
+    "is_broken": true
+  },
+  {
+    "url": "https://india.diplo.de",
+    "last_checked_at": "2026-06-07T22:20:31.165828Z",
+    "status_code": 200,
+    "is_broken": false
+  },
+  {
+    "url": "https://service.berlin.de/dienstleistung/120686/",
+    "last_checked_at": "2026-06-07T22:20:31.247777Z",
+    "status_code": 200,
+    "is_broken": false
+  }
+]

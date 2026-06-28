@@ -1,0 +1,94 @@
+{
+  "last_validated_at": "2026-06-05T00:00:00Z",
+  "source_url": "https://service.berlin.de/dienstleistung/120686/",
+  "user_types": {
+    "student": {
+      "documents": [
+        {
+          "name": "Valid Passport or National ID",
+          "description": "Your original passport or national identity card. It must be valid and not expired. Bring the original — copies are not accepted.",
+          "mandatory": true
+        },
+        {
+          "name": "Visa or Residence Permit",
+          "description": "If you are a non-EU citizen, bring your valid visa or residence permit. EU citizens do not need this.",
+          "mandatory": true
+        },
+        {
+          "name": "University Enrollment Certificate",
+          "description": "A current enrollment certificate (Immatrikulationsbescheinigung) from your German university. This confirms your student status.",
+          "mandatory": true
+        },
+        {
+          "name": "Rental Agreement or Lease Contract",
+          "description": "Your signed rental contract (Mietvertrag) showing your German address. This proves where you are living.",
+          "mandatory": true
+        },
+        {
+          "name": "Landlord Confirmation (Wohnungsgeberbestätigung)",
+          "description": "A signed confirmation from your landlord stating that you have moved into the apartment. This is legally required and your landlord must provide it. You can download the form from your city's official website.",
+          "mandatory": true
+        },
+        {
+          "name": "Registration Form (Anmeldeformular)",
+          "description": "The official registration form, which you can download and fill in before your appointment, or complete at the Bürgeramt. Available on your city's website.",
+          "mandatory": true
+        },
+        {
+          "name": "Marriage Certificate",
+          "description": "Only required if you are registering a spouse at the same address.",
+          "mandatory": false
+        },
+        {
+          "name": "Birth Certificates of Children",
+          "description": "Only required if you are registering children at the same address.",
+          "mandatory": false
+        }
+      ]
+    },
+    "worker": {
+      "documents": [
+        {
+          "name": "Valid Passport or National ID",
+          "description": "Your original passport or national identity card. Must be valid and not expired.",
+          "mandatory": true
+        },
+        {
+          "name": "Work Visa or Residence Permit",
+          "description": "If you are a non-EU citizen, your valid work visa or residence permit that authorizes employment in Germany.",
+          "mandatory": true
+        },
+        {
+          "name": "Employment Contract",
+          "description": "Your signed employment contract or a letter from your employer confirming your employment in Germany.",
+          "mandatory": true
+        },
+        {
+          "name": "Rental Agreement or Lease Contract",
+          "description": "Your signed rental contract (Mietvertrag) showing your German address.",
+          "mandatory": true
+        },
+        {
+          "name": "Landlord Confirmation (Wohnungsgeberbestätigung)",
+          "description": "A signed confirmation from your landlord stating you have moved into the apartment. Legally required.",
+          "mandatory": true
+        },
+        {
+          "name": "Registration Form (Anmeldeformular)",
+          "description": "The official registration form. Download from your city's official website or complete it at the Bürgeramt.",
+          "mandatory": true
+        },
+        {
+          "name": "Marriage Certificate",
+          "description": "Only required if registering a spouse at the same address.",
+          "mandatory": false
+        },
+        {
+          "name": "Birth Certificates of Children",
+          "description": "Only required if registering children at the same address.",
+          "mandatory": false
+        }
+      ]
+    }
+  }
+}

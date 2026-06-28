@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "workflow": "Anmeldung",
+    "visa": "Visa",
+    "overview": "Journey Overview",
+    "ai_assistant": "AI Assistant",
+    "admin": "Admin Dashboard"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred"
+  },
+  "ai": {
+    "title": "AI Bureaucracy Assistant",
+    "upload_label": "Upload a letter (PDF/Image)",
+    "text_label": "Or paste text here",
+    "analyze_btn": "Analyze Letter",
+    "summary": "Summary",
+    "actions": "Action Items",
+    "draft_reply": "Draft Reply (German)"
+  },
+  "overview": {
+    "title": "Your Journey to Germany",
+    "subtitle": "Track your progress through all necessary bureaucratic stages."
+  },
+  "visa": {
+    "risk_radar": "Risk Radar",
+    "evidence": "Source Link",
+    "history": "View History"
+  }
+}

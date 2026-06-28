@@ -1,0 +1,37 @@
+[
+  {
+    "id": "india_master_blocked_account",
+    "country": "india",
+    "study_type": "master",
+    "funding_mode": "blocked_account",
+    "workflow": "apply_from_india",
+    "required_item_ids": [
+      "passport_valid",
+      "admission_letter",
+      "blocked_account_proof",
+      "travel_health_insurance",
+      "biometric_photos"
+    ],
+    "optional_item_ids": [
+      "motivation_letter"
+    ],
+    "last_validated_at": "2024-03-01T12:00:00Z",
+    "source_url": "https://india.diplo.de/in-en/service/-/2552164"
+  },
+  {
+    "id": "germany_master_blocked_account",
+    "country": "germany",
+    "study_type": "master",
+    "funding_mode": "blocked_account",
+    "workflow": "apply_in_germany",
+    "required_item_ids": [
+      "passport_valid",
+      "admission_letter",
+      "blocked_account_proof",
+      "biometric_photos"
+    ],
+    "optional_item_ids": [],
+    "last_validated_at": "2024-03-01T12:00:00Z",
+    "source_url": "https://www.berlin.de/einwanderung/en/services/service.305244.en.php"
+  }
+]
